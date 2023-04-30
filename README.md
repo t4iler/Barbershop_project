@@ -2,4 +2,4 @@
 
 ##Simple site
 
-![Screenshots](https://github.com//t4iler/Barbershop_project/blob/master/readme_images/first.png "photo")
+![Screenshots](./readme_images/first.png )
