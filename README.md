@@ -1,6 +1,6 @@
 # Barbershop_project
 
-# #Simple site
+# # Simple site
 
 ![Screenshots](./readme_images/first.png )
 ![Screenshots](./readme_images/second.png )
